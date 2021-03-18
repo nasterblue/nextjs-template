@@ -11,23 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c777e7a-196f-48f6-b986-8d9ce1421480" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/room-type/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/layout/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/i.amenity.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/i.appointment.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/i.blog.category.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/i.blog.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/i.building.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/i.contact.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/i.faq.category.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/i.faq.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/i.image.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/i.quote.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/i.room.type.interface.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/slices/room-type/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/services/room-type.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/helper.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +70,7 @@
       <workItem from="1616037032828" duration="2930000" />
       <workItem from="1616040672937" duration="3152000" />
       <workItem from="1616052358857" duration="1637000" />
-      <workItem from="1616054303611" duration="3121000" />
+      <workItem from="1616054303611" duration="3381000" />
     </task>
     <servers />
   </component>

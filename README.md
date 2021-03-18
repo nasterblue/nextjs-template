@@ -39,7 +39,7 @@ yarn install
 ví dụ tạo 1 page với path là : room-type
 
 ### http://localhost:3000/en/room-type
-[[images.png]]
+![room-type](images.png)
 
 ### /pages/room-type
 + index.tsx : neNextPage 

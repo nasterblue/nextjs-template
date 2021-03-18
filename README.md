@@ -42,11 +42,13 @@ ví dụ tạo 1 page với path là : room-type
 ![room-type](images.png)
 
 ### /pages/room-type
+```text
 + index.tsx : neNextPage 
 ++ async function getStaticProps(): Promise<{ props: IProps }>  : server side code
 ++ RoomTypePage: NextPage = ({ data }): IProps : client side code 
 + components: các components con của page
 ++ index.ts : room-type component 
+```
 
 ### src/redux/slices/room-type
 reduxjs/toolkit
